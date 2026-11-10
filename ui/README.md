@@ -4,6 +4,5 @@
 
 每个 skill 使用独立文件夹，并以 `SKILL.md` 作为入口。
 
-当前尚未收录具体 skill。
 
 [返回分类导航](../README.md)
